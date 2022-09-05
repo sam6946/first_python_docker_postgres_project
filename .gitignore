@@ -1,2 +1,4 @@
 web/.env 
 .DS_Store
+
+/venv
